@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CHSARP_Conditions_Exo4/1.0.0": {
+        "runtime": {
+          "CHSARP_Conditions_Exo4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CHSARP_Conditions_Exo4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
