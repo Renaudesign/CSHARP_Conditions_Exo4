@@ -10,14 +10,14 @@ namespace CHSARP_Conditions_Exo4
             const string password = "1234";
 
             Console.WriteLine("Veuillez indiquer votre identifiant d'utilisateur:");
-            string saisielogin = Console.ReadLine();
+            string saisieLogin = Console.ReadLine();
 
             Console.WriteLine("Merci Utilisateur.Veuillez maintenant saisir votre mot de passe: ");
-            string saisiepassword = Console.ReadLine();
+            string saisiePassword = Console.ReadLine();
 
             //pour analyser plusieurs variables, les séparer par une virgule. respecter la même structure pour le case avec les variables correspondantes
 
-            switch (saisielogin, saisiepassword)
+            switch (saisieLogin, saisiePassword)
             {
                 case (login, password):
                     Console.WriteLine("Bienvenue à l'abri 404.");
